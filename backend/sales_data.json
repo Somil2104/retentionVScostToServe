@@ -1,0 +1,1458 @@
+[
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 1,
+    "sales": 15993,
+    "date": "2023-08-25"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 2,
+    "sales": 4861,
+    "date": "2023-09-01"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 3,
+    "sales": 13376,
+    "date": "2023-09-08"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 4,
+    "sales": 19591,
+    "date": "2023-09-15"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 5,
+    "sales": 15929,
+    "date": "2023-09-22"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 6,
+    "sales": 12041,
+    "date": "2023-09-29"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 7,
+    "sales": 6156,
+    "date": "2023-10-06"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 8,
+    "sales": 4072,
+    "date": "2023-10-13"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 9,
+    "sales": 5192,
+    "date": "2023-10-20"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 10,
+    "sales": 9008,
+    "date": "2023-10-27"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 11,
+    "sales": 9306,
+    "date": "2023-11-03"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 12,
+    "sales": 10532,
+    "date": "2023-11-10"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 13,
+    "sales": 14896,
+    "date": "2023-11-17"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 14,
+    "sales": 12950,
+    "date": "2023-11-24"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 15,
+    "sales": 8139,
+    "date": "2023-12-01"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 16,
+    "sales": 18807,
+    "date": "2023-12-08"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 17,
+    "sales": 13509,
+    "date": "2023-12-15"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 18,
+    "sales": 12911,
+    "date": "2023-12-22"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 19,
+    "sales": 3363,
+    "date": "2023-12-29"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 20,
+    "sales": 10781,
+    "date": "2024-01-05"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 21,
+    "sales": 17885,
+    "date": "2024-01-12"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 22,
+    "sales": 13646,
+    "date": "2024-01-19"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 23,
+    "sales": 1914,
+    "date": "2024-01-26"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 24,
+    "sales": 3730,
+    "date": "2024-02-02"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 25,
+    "sales": 5562,
+    "date": "2024-02-09"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 26,
+    "sales": 7847,
+    "date": "2024-02-16"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 27,
+    "sales": 13162,
+    "date": "2024-02-23"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 28,
+    "sales": 14539,
+    "date": "2024-03-01"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 29,
+    "sales": 338,
+    "date": "2024-03-08"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 30,
+    "sales": 15183,
+    "date": "2024-03-15"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 31,
+    "sales": 5729,
+    "date": "2024-03-22"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 32,
+    "sales": 6263,
+    "date": "2024-03-29"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 33,
+    "sales": 16445,
+    "date": "2024-04-05"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 34,
+    "sales": 16212,
+    "date": "2024-04-12"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 35,
+    "sales": 11326,
+    "date": "2024-04-19"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 36,
+    "sales": 2280,
+    "date": "2024-04-26"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 37,
+    "sales": 14388,
+    "date": "2024-05-03"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 38,
+    "sales": 15494,
+    "date": "2024-05-10"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 39,
+    "sales": 15434,
+    "date": "2024-05-17"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 40,
+    "sales": 16956,
+    "date": "2024-05-24"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 41,
+    "sales": 1100,
+    "date": "2024-05-31"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 42,
+    "sales": 5393,
+    "date": "2024-06-07"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 43,
+    "sales": 5512,
+    "date": "2024-06-14"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 44,
+    "sales": 16609,
+    "date": "2024-06-21"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 45,
+    "sales": 613,
+    "date": "2024-06-28"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 46,
+    "sales": 4594,
+    "date": "2024-07-05"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 47,
+    "sales": 3308,
+    "date": "2024-07-12"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 48,
+    "sales": 19428,
+    "date": "2024-07-19"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 49,
+    "sales": 12036,
+    "date": "2024-07-26"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 50,
+    "sales": 747,
+    "date": "2024-08-02"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 51,
+    "sales": 18282,
+    "date": "2024-08-09"
+  },
+  {
+    "store": 1,
+    "dept": 1,
+    "week": 52,
+    "sales": 12303,
+    "date": "2024-08-16"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 1,
+    "sales": 17547,
+    "date": "2023-08-25"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 2,
+    "sales": 9110,
+    "date": "2023-09-01"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 3,
+    "sales": 16878,
+    "date": "2023-09-08"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 4,
+    "sales": 6895,
+    "date": "2023-09-15"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 5,
+    "sales": 16261,
+    "date": "2023-09-22"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 6,
+    "sales": 7015,
+    "date": "2023-09-29"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 7,
+    "sales": 1387,
+    "date": "2023-10-06"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 8,
+    "sales": 12520,
+    "date": "2023-10-13"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 9,
+    "sales": 13607,
+    "date": "2023-10-20"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 10,
+    "sales": 19936,
+    "date": "2023-10-27"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 11,
+    "sales": 7142,
+    "date": "2023-11-03"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 12,
+    "sales": 14040,
+    "date": "2023-11-10"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 13,
+    "sales": 8226,
+    "date": "2023-11-17"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 14,
+    "sales": 462,
+    "date": "2023-11-24"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 15,
+    "sales": 1959,
+    "date": "2023-12-01"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 16,
+    "sales": 4009,
+    "date": "2023-12-08"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 17,
+    "sales": 7827,
+    "date": "2023-12-15"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 18,
+    "sales": 7131,
+    "date": "2023-12-22"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 19,
+    "sales": 8229,
+    "date": "2023-12-29"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 20,
+    "sales": 18449,
+    "date": "2024-01-05"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 21,
+    "sales": 17782,
+    "date": "2024-01-12"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 22,
+    "sales": 12640,
+    "date": "2024-01-19"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 23,
+    "sales": 13041,
+    "date": "2024-01-26"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 24,
+    "sales": 8967,
+    "date": "2024-02-02"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 25,
+    "sales": 6400,
+    "date": "2024-02-09"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 26,
+    "sales": 18513,
+    "date": "2024-02-16"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 27,
+    "sales": 11887,
+    "date": "2024-02-23"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 28,
+    "sales": 10997,
+    "date": "2024-03-01"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 29,
+    "sales": 5639,
+    "date": "2024-03-08"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 30,
+    "sales": 6043,
+    "date": "2024-03-15"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 31,
+    "sales": 5412,
+    "date": "2024-03-22"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 32,
+    "sales": 4025,
+    "date": "2024-03-29"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 33,
+    "sales": 1482,
+    "date": "2024-04-05"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 34,
+    "sales": 14779,
+    "date": "2024-04-12"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 35,
+    "sales": 8742,
+    "date": "2024-04-19"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 36,
+    "sales": 17866,
+    "date": "2024-04-26"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 37,
+    "sales": 12976,
+    "date": "2024-05-03"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 38,
+    "sales": 11589,
+    "date": "2024-05-10"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 39,
+    "sales": 6774,
+    "date": "2024-05-17"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 40,
+    "sales": 15893,
+    "date": "2024-05-24"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 41,
+    "sales": 17463,
+    "date": "2024-05-31"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 42,
+    "sales": 7469,
+    "date": "2024-06-07"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 43,
+    "sales": 13691,
+    "date": "2024-06-14"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 44,
+    "sales": 12075,
+    "date": "2024-06-21"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 45,
+    "sales": 14200,
+    "date": "2024-06-28"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 46,
+    "sales": 19209,
+    "date": "2024-07-05"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 47,
+    "sales": 7568,
+    "date": "2024-07-12"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 48,
+    "sales": 13999,
+    "date": "2024-07-19"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 49,
+    "sales": 17806,
+    "date": "2024-07-26"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 50,
+    "sales": 17768,
+    "date": "2024-08-02"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 51,
+    "sales": 9489,
+    "date": "2024-08-09"
+  },
+  {
+    "store": 1,
+    "dept": 2,
+    "week": 52,
+    "sales": 14642,
+    "date": "2024-08-16"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 1,
+    "sales": 11544,
+    "date": "2023-08-25"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 2,
+    "sales": 135,
+    "date": "2023-09-01"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 3,
+    "sales": 16972,
+    "date": "2023-09-08"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 4,
+    "sales": 16928,
+    "date": "2023-09-15"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 5,
+    "sales": 2817,
+    "date": "2023-09-22"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 6,
+    "sales": 5963,
+    "date": "2023-09-29"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 7,
+    "sales": 5520,
+    "date": "2023-10-06"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 8,
+    "sales": 6518,
+    "date": "2023-10-13"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 9,
+    "sales": 5058,
+    "date": "2023-10-20"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 10,
+    "sales": 14722,
+    "date": "2023-10-27"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 11,
+    "sales": 6836,
+    "date": "2023-11-03"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 12,
+    "sales": 11154,
+    "date": "2023-11-10"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 13,
+    "sales": 5775,
+    "date": "2023-11-17"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 14,
+    "sales": 17418,
+    "date": "2023-11-24"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 15,
+    "sales": 9225,
+    "date": "2023-12-01"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 16,
+    "sales": 8632,
+    "date": "2023-12-08"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 17,
+    "sales": 18104,
+    "date": "2023-12-15"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 18,
+    "sales": 9723,
+    "date": "2023-12-22"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 19,
+    "sales": 13679,
+    "date": "2023-12-29"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 20,
+    "sales": 1527,
+    "date": "2024-01-05"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 21,
+    "sales": 19538,
+    "date": "2024-01-12"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 22,
+    "sales": 10014,
+    "date": "2024-01-19"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 23,
+    "sales": 5947,
+    "date": "2024-01-26"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 24,
+    "sales": 13068,
+    "date": "2024-02-02"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 25,
+    "sales": 10318,
+    "date": "2024-02-09"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 26,
+    "sales": 8460,
+    "date": "2024-02-16"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 27,
+    "sales": 3890,
+    "date": "2024-02-23"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 28,
+    "sales": 14218,
+    "date": "2024-03-01"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 29,
+    "sales": 13256,
+    "date": "2024-03-08"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 30,
+    "sales": 7818,
+    "date": "2024-03-15"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 31,
+    "sales": 4647,
+    "date": "2024-03-22"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 32,
+    "sales": 16541,
+    "date": "2024-03-29"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 33,
+    "sales": 11945,
+    "date": "2024-04-05"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 34,
+    "sales": 7181,
+    "date": "2024-04-12"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 35,
+    "sales": 7692,
+    "date": "2024-04-19"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 36,
+    "sales": 6175,
+    "date": "2024-04-26"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 37,
+    "sales": 13419,
+    "date": "2024-05-03"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 38,
+    "sales": 6681,
+    "date": "2024-05-10"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 39,
+    "sales": 9384,
+    "date": "2024-05-17"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 40,
+    "sales": 12965,
+    "date": "2024-05-24"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 41,
+    "sales": 10516,
+    "date": "2024-05-31"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 42,
+    "sales": 6054,
+    "date": "2024-06-07"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 43,
+    "sales": 13247,
+    "date": "2024-06-14"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 44,
+    "sales": 16535,
+    "date": "2024-06-21"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 45,
+    "sales": 13098,
+    "date": "2024-06-28"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 46,
+    "sales": 1285,
+    "date": "2024-07-05"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 47,
+    "sales": 17338,
+    "date": "2024-07-12"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 48,
+    "sales": 6521,
+    "date": "2024-07-19"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 49,
+    "sales": 8109,
+    "date": "2024-07-26"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 50,
+    "sales": 7240,
+    "date": "2024-08-02"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 51,
+    "sales": 1188,
+    "date": "2024-08-09"
+  },
+  {
+    "store": 2,
+    "dept": 1,
+    "week": 52,
+    "sales": 13967,
+    "date": "2024-08-16"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 1,
+    "sales": 447,
+    "date": "2023-08-25"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 2,
+    "sales": 9156,
+    "date": "2023-09-01"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 3,
+    "sales": 6103,
+    "date": "2023-09-08"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 4,
+    "sales": 9249,
+    "date": "2023-09-15"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 5,
+    "sales": 18658,
+    "date": "2023-09-22"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 6,
+    "sales": 19448,
+    "date": "2023-09-29"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 7,
+    "sales": 15002,
+    "date": "2023-10-06"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 8,
+    "sales": 7218,
+    "date": "2023-10-13"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 9,
+    "sales": 18882,
+    "date": "2023-10-20"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 10,
+    "sales": 18672,
+    "date": "2023-10-27"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 11,
+    "sales": 19451,
+    "date": "2023-11-03"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 12,
+    "sales": 17293,
+    "date": "2023-11-10"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 13,
+    "sales": 4777,
+    "date": "2023-11-17"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 14,
+    "sales": 11539,
+    "date": "2023-11-24"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 15,
+    "sales": 9751,
+    "date": "2023-12-01"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 16,
+    "sales": 14534,
+    "date": "2023-12-08"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 17,
+    "sales": 3784,
+    "date": "2023-12-15"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 18,
+    "sales": 7934,
+    "date": "2023-12-22"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 19,
+    "sales": 119,
+    "date": "2023-12-29"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 20,
+    "sales": 18594,
+    "date": "2024-01-05"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 21,
+    "sales": 18599,
+    "date": "2024-01-12"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 22,
+    "sales": 6990,
+    "date": "2024-01-19"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 23,
+    "sales": 2831,
+    "date": "2024-01-26"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 24,
+    "sales": 16914,
+    "date": "2024-02-02"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 25,
+    "sales": 920,
+    "date": "2024-02-09"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 26,
+    "sales": 17210,
+    "date": "2024-02-16"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 27,
+    "sales": 19042,
+    "date": "2024-02-23"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 28,
+    "sales": 19348,
+    "date": "2024-03-01"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 29,
+    "sales": 7945,
+    "date": "2024-03-08"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 30,
+    "sales": 13062,
+    "date": "2024-03-15"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 31,
+    "sales": 8610,
+    "date": "2024-03-22"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 32,
+    "sales": 19218,
+    "date": "2024-03-29"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 33,
+    "sales": 11864,
+    "date": "2024-04-05"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 34,
+    "sales": 6204,
+    "date": "2024-04-12"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 35,
+    "sales": 15749,
+    "date": "2024-04-19"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 36,
+    "sales": 3187,
+    "date": "2024-04-26"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 37,
+    "sales": 12026,
+    "date": "2024-05-03"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 38,
+    "sales": 9796,
+    "date": "2024-05-10"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 39,
+    "sales": 399,
+    "date": "2024-05-17"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 40,
+    "sales": 17525,
+    "date": "2024-05-24"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 41,
+    "sales": 19588,
+    "date": "2024-05-31"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 42,
+    "sales": 15089,
+    "date": "2024-06-07"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 43,
+    "sales": 15492,
+    "date": "2024-06-14"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 44,
+    "sales": 6458,
+    "date": "2024-06-21"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 45,
+    "sales": 8304,
+    "date": "2024-06-28"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 46,
+    "sales": 15118,
+    "date": "2024-07-05"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 47,
+    "sales": 13703,
+    "date": "2024-07-12"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 48,
+    "sales": 17322,
+    "date": "2024-07-19"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 49,
+    "sales": 10603,
+    "date": "2024-07-26"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 50,
+    "sales": 5958,
+    "date": "2024-08-02"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 51,
+    "sales": 15031,
+    "date": "2024-08-09"
+  },
+  {
+    "store": 2,
+    "dept": 2,
+    "week": 52,
+    "sales": 11104,
+    "date": "2024-08-16"
+  }
+]
